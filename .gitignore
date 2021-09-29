@@ -1,0 +1,16 @@
+.gradle
+.idea
+.openzeppelin
+build
+node_modules
+secrets.json*
+airdrop_result.json
+script/*.csv
+artifacts
+cache
+verify
+
+.openzeppelin/.session
+bin
+coverage.json
+.solcover.js
